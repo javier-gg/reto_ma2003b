@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = https://dagshub.com/javier-gg/reto_ma2003b.dvc
+    auth = basic
+    user = javier-gg
